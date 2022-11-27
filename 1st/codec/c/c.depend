@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665230903 source:c:\users\carlos\documents\pokemen\c\main.c
+	<stdio.h>
+	<winsock2.h>
+
