@@ -1,2 +1,2 @@
 # some_other
-Contains free lance content
+Contains freelance content
